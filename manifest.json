@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Website Blocker",
   "version": "1.0.0",
-  "description": "Block selected websites.",
+  "description": "Block Youtube,facebook and instagram websites.",
   "icons": { 
     "16": "Images/16.png",
     "48": "Images/48.png",
