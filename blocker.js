@@ -3,6 +3,10 @@ const blockedImages = ['https://media.tenor.com/q2eL6vNVKf4AAAAC/bhai-kya-kar-ra
 const blockedMessageHTML = `<div>
 <p>Access to this site is blocked on this device.</p>
 <br>
+<audio autoplay loop>
+  <source src="https://ecommerce.vinayaksingh.com/wp-content/uploads/2023/02/Rick-Roll.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 <img src="${blockedImages[Math.floor(Math.random() * blockedImages.length)]}" alt="Blocked GIF">
 </div>`;
 
